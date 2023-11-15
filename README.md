@@ -5,3 +5,5 @@
 2.细化需求。  
 3.确定开发语言，运行环境。  
 4.开发任务划分。
+
+pip install -r requirements.txt
