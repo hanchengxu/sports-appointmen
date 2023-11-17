@@ -1,0 +1,7 @@
+global:
+  timeout:
+  sleep:
+login:
+  url: http://asdasd.asdas.dasd
+  user: test
+  password: ffff

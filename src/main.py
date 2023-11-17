@@ -1,2 +1,7 @@
+from utils import sys_config
+
 print("Hello, World!")
-print("abc")
+
+configs = sys_config()
+
+print(configs["login"]["user"])
