@@ -20,3 +20,7 @@ except:
 
 def sys_config():
     return config
+
+
+def get_logger():
+    return logger
